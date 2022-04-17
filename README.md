@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @peter0471
 - 👀 I’m interested in data science and ml
-- 🌱 I’m currently learning python
 - 📫 How to reach me < code8002@gmail.com >
 
 <!---
